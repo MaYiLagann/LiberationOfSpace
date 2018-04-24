@@ -46,11 +46,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\2. Scripts\Builds\BuildItemMove.cs" />
+     <Compile Include="Assets\2. Scripts\Builds\BuildSystem.cs" />
      <Compile Include="Assets\2. Scripts\Transforms\MoveSelf.cs" />
      <Compile Include="Assets\2. Scripts\Transforms\RotateAround.cs" />
      <Compile Include="Assets\2. Scripts\Transforms\RotateSelf.cs" />
-     <None Include="Assets\1. Assets\Grid\Shader Grid.shader" />
      <None Include="Assets\1. Assets\Overlay\Shader Overlay.shader" />
      <None Include="Assets\1. Assets\Overlay\Shader Outline.shader" />
  <Reference Include="UnityEngine.UI">
