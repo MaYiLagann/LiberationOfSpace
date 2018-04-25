@@ -46,6 +46,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\2. Scripts\Builds\BuildObjectPart.cs" />
      <Compile Include="Assets\2. Scripts\Builds\BuildSystem.cs" />
      <Compile Include="Assets\2. Scripts\Transforms\MoveSelf.cs" />
      <Compile Include="Assets\2. Scripts\Transforms\RotateAround.cs" />
